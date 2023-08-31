@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.1 30.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24484f;
+      }
+
+      .cls-2 {
+        fill: #10cab7;
+      }
+    </style>
+  </defs>
+  <g id="Background_Bottom_Footer_Footer_About_Portfolio_Services_Header_Work_Image" data-name="Background + Bottom Footer + Footer + About + Portfolio + Services + Header + Work Image">
+    <g>
+      <path class="cls-2" d="M30.18,30.15c-8.23,0-14.93-6.7-14.93-14.93S21.95,.3,30.18,.3s14.93,6.7,14.93,14.93-6.7,14.93-14.93,14.93Zm0-24.85c-5.47,0-9.93,4.45-9.93,9.93s4.45,9.93,9.93,9.93,9.93-4.45,9.93-9.93-4.45-9.93-9.93-9.93Z"/>
+      <rect class="cls-1" width="5" height="30.45"/>
+    </g>
+  </g>
+</svg>

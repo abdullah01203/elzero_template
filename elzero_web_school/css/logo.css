@@ -1,0 +1,27 @@
+.logo{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo::before{
+    content: "";
+    height: 70%;
+    width: 10%;
+    background-color: #24484f;
+    display: inline-block;
+}
+.logo::after{
+    content: "";
+    height: 66%;
+    width: 66%;
+    display: inline-block;
+    box-sizing: border-box;
+    border: #10cab7 solid 4px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
